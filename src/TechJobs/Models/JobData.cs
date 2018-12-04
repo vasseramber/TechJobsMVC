@@ -74,7 +74,7 @@ namespace TechJobs.Models
         }
 
         /**
-         * Returns results of search the jobs data by key/value, using
+         * Returns results of searching the jobs data by key/value, using
          * inclusion of the search term.
          *
          * For example, searching for employer "Enterprise" will include results
